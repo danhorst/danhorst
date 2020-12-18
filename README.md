@@ -1,12 +1,11 @@
-## Hi, I'm Dan 👋
+## Hi, I'm Dan :wave:
 
-At work I am passionate about:
-- Clear technical communication
-- Developer productivity
-- Product design
+I am passionate about:  
+:notebook: Clear technical communication  
+:computer: Developer productivity  
+:sparkles: Product design  
+:rocket: [Rockets][1]
 
-I have [lots of interests outside of work][1] but my favorite thing is to design, build, and fly rockets.
-I write about :rocket: over at [rocketlabdelta.com][2].
+I've been working in tech since 2007 as a full-stack web application developer, team lead, and enterprise architect.
 
-[1]: https://www.danhorst.com/lists/interests/
-[2]: https://rocketlabdelta.com/
+[1]: https://rocketlabdelta.com/
