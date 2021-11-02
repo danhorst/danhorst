@@ -2,7 +2,7 @@
 
 I am passionate about:  
 :notebook: Clear technical communication  
-:computer: Developer productivity  
+:computer: Developer happiness  
 :sparkles: Product design  
 :rocket: [Rockets][1]
 
