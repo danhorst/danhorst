@@ -6,6 +6,7 @@ I am passionate about:
 :notebook: Clear technical communication  
 :computer: Developer happiness  
 :sparkles: Product design  
+:anchor: Resilient systems  
 :rocket: [Rockets][1]
 
 Engineering isn't bounded by the stack.
