@@ -11,7 +11,7 @@ I'm passionate about:
 :dart: Coaching teams to thrive at the intersection of technology and business  
 :books: Continuous learning—from systems architecture to rocketry
 
----
+### I believe
 
 Engineering is _focused technical work_ but it never happens in a vacuum.
 
