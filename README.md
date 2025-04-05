@@ -4,7 +4,7 @@ I've been working in tech since 2007 as a full-stack web developer, engineering 
 
 I love building _resilient systems_, designing _great developer experiences_, and tackling _complex product challenges_.
 
-I'm passionate about:
+### I'm passionate about
 
 :notebook: Clear, thoughtful technical communication  
 :computer: Crafting software that balances elegance and practicality  
