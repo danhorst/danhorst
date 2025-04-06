@@ -1,6 +1,6 @@
 ## Hi, I'm Dan :wave:
 
-I've been working in tech since 2007 as a full-stack web developer, engineering manager, and enterprise architect. I love building _resilient systems_, designing _great developer experiences_, and tackling _complex product challenges_.
+I've been working in tech since 2007 as a full-stack web developer, engineering manager, and enterprise architect. I love building _resilient systems_, designing _great developer experiences_, and tackling _complex product challenges_ where I can blend technical acumen with a deep appreciation for aesthetics to create balanced, refined solutions.
 
 ### I'm passionate about
 
